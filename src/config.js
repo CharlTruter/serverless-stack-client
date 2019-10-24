@@ -1,4 +1,6 @@
 export default {
+    MAX_ATTACHMENT_SIZE: 5000000,
+    STRIPE_KEY: "pk_test_NMudDcf26jqcNN3ofINOfa1s00AnqtNkVz",
     s3: {
       REGION: "eu-west-2",
       BUCKET: "notes-armi-uploads"
